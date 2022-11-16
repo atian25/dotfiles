@@ -1,3 +1,3 @@
 # dotfiles
 
-my dotfiles for Github Codespaces
+tz's dotfiles for Github Codespaces
